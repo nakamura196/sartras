@@ -61,6 +61,26 @@
       "jps:sourceData": {
         "@id": "https://jpsearch.go.jp/term/property#sourceData",
         "@type": "@id"
+      },
+      "schema:isVariantOf": {
+        "@id": "http://schema.org/isVariantOf",
+        "@type": "@id"
+      },
+      "schema:isPartOf": {
+        "@id": "http://schema.org/isPartOf",
+        "@type": "@id"
+      },
+      "schema:relatedLink": {
+        "@id": "http://schema.org/relatedLink",
+        "@type": "@id"
+      },
+      "schema:creator": {
+        "@id": "http://schema.org/creator",
+        "@type": "@id"
+      },
+      "schema:contributor": {
+        "@id": "http://schema.org/contributor",
+        "@type": "@id"
       }
     }
   ]
