@@ -81,6 +81,14 @@
       "schema:contributor": {
         "@id": "http://schema.org/contributor",
         "@type": "@id"
+      },
+      "schema:about": {
+        "@id": "http://schema.org/about",
+        "@type": "@id"
+      },
+      "schema:isBasedOn": {
+        "@id": "http://schema.org/isBasedOn",
+        "@type": "@id"
       }
     }
   ]
