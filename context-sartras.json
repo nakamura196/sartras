@@ -1,0 +1,67 @@
+{
+  "@context": [
+    {
+      "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+      "schema": "http://schema.org/",
+      "jps": "https://jpsearch.go.jp/term/property#",
+      "type": "https://jpsearch.go.jp/term/type/",
+      "time": "https://jpsearch.go.jp/entity/time/",
+      "place": "https://jpsearch.go.jp/entity/place/",
+      "chname": "https://jpsearch.go.jp/entity/chname/",
+      "iso639-2": "http://id.loc.gov/vocabulary/iso639-2/",
+      "role": "https://jpsearch.go.jp/term/role/",
+      "schema:publisher": {
+        "@id": "http://schema.org/publisher",
+        "@type": "@id"
+      },
+      "schema:provider": {
+        "@id": "http://schema.org/provider",
+        "@type": "@id"
+      },
+      "schema:spatial": {
+        "@id": "http://schema.org/spatial",
+        "@type": "@id"
+      },
+      "schema:temporal": {
+        "@id": "http://schema.org/temporal",
+        "@type": "@id"
+      },
+      "schema:inLanguage": {
+        "@id": "http://schema.org/inLanguage",
+        "@type": "@id"
+      },
+      "jps:relationType": {
+        "@id": "https://jpsearch.go.jp/term/property#relationType",
+        "@type": "@id"
+      },
+      "jps:value": {
+        "@id": "https://jpsearch.go.jp/term/property#value",
+        "@type": "@id"
+      },
+      "schema:genre": {
+        "@id": "http://schema.org/genre",
+        "@type": "@id"
+      },
+      "rdfs:seeAlso": {
+        "@id": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "@type": "@id"
+      },
+      "schema:url": {
+        "@id": "http://schema.org/url",
+        "@type": "@id"
+      },
+      "schmea:isVariantOf": {
+        "@id": "http://schema.org/isVariantOf",
+        "@type": "@id"
+      },
+      "schmea:relatedLink": {
+        "@id": "http://schema.org/relatedLink",
+        "@type": "@id"
+      },
+      "jps:sourceData": {
+        "@id": "https://jpsearch.go.jp/term/property#sourceData",
+        "@type": "@id"
+      }
+    }
+  ]
+}
